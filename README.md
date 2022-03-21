@@ -1,5 +1,3 @@
-# Group-58
-# Team members: Chen Huixiang, Zhu Lingxiao
 # Game: MineSweeper
 # Game Rules: The player will use "wasd" to move the cursor in the game and use 'J' to confirm the land mine, 'K' to confirm safety.
 # 1.Generation of random game sets or events: The position of land mine will be produced randomly.
